@@ -36,13 +36,4 @@ I am a passionate and dedicated Front-End Developer with a strong foundation in 
 
 ### Badges
 
-<b>My GitHub Stats</b>
-<p align="left">
-  <a href="http://www.github.com/MoketeTyabekana" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoketeTyabekana&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="MoketeTyabekana's GitHub stats" />
-  </a>
 
-  <a href="https://github.com/MoketeTyabekana" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoketeTyabekana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</p>
