@@ -4,7 +4,7 @@ Hi 👋 My name is Mokete Elias Tyabekana
 Software Engineer (Front-end Developer) | Graphics & UI/UX Designer
 -------------------------------------------------------------------
 
-I am a passionate and dedicated Front-End Developer with a strong foundation in HTML, CSS, JavaScript, React, Tailwind and Bootstrap. With experience in UI/UX design and graphic design, I blend creativity and technical expertise to deliver user-centric solutions. I hold certifications in responsive web design, web programming foundations, and IT support. My goal is to leverage my skills to help businesses grow in the digital space and provide innovative solutions for users.
+I am a passionate and dedicated Front-End Developer with a strong foundation in HTML, CSS, JavaScript, React, Tailwind and Bootstrap. With experience in UI/UX design and graphic design, I blend creativity and technical expertise to deliver user-centric solutions.
 
 *   🌍  I'm based in South Africa
 *   ✉️  You can contact me at [emtyabekana@gmail.com](mailto:emtyabekana@gmail.com)
